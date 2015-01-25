@@ -1,0 +1,10 @@
+Installation:
+  1) In the terminal
+      $ PATH=$PATH:installation_folder_path
+      $ export PATH
+
+  2) In the script
+      Edit line 34 to installation_folder_path
+      
+  3) Run as
+      $ aneurysm_bash_script.sh
